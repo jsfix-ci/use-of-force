@@ -130,7 +130,7 @@
     "request": "^2.88.2",
     "sass-middleware": "^0.0.3",
     "superagent": "^8.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/bunyan": "^1.8.8",
